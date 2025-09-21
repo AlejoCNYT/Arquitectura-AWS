@@ -229,7 +229,8 @@ aws ec2 describe-security-groups --query "SecurityGroups[].{Id:GroupId,Name:Grou
 
 <img width="935" height="140" alt="Screenshot 2025-09-17 103814" src="https://github.com/user-attachments/assets/ed08123b-311f-44f9-b489-aa8058056463" />
 <img width="914" height="570" alt="Screenshot 2025-09-17 103930" src="https://github.com/user-attachments/assets/13e22d97-eddb-4768-89d9-e93035f8c7e6" />
-
+<img width="420" height="106" alt="Screenshot 2025-09-17 103934" src="https://github.com/user-attachments/assets/a3c067e2-1727-44fd-a0a0-f8bd60514104" />
+<img width="939" height="360" alt="Screenshot 2025-09-17 104005" src="https://github.com/user-attachments/assets/224b608c-696a-4338-bee4-068d89601b0e" />
 
  *(Evidencia de recursos eliminados / Evidence of deleted resources)*
 
@@ -302,6 +303,3 @@ aws ec2 create-tags   --resources i-0123456789abcdef0   --tags Key=Owner,Value=D
   https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html
 
 ---
-
-<img width="420" height="106" alt="Screenshot 2025-09-17 103934" src="https://github.com/user-attachments/assets/a3c067e2-1727-44fd-a0a0-f8bd60514104" />
-<img width="939" height="360" alt="Screenshot 2025-09-17 104005" src="https://github.com/user-attachments/assets/224b608c-696a-4338-bee4-068d89601b0e" />
