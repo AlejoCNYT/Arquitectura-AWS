@@ -303,21 +303,5 @@ aws ec2 create-tags   --resources i-0123456789abcdef0   --tags Key=Owner,Value=D
 
 ---
 
-## 🗓️ Metadatos / Metadata
-
-- **Última modificación / Last modified:** Tuesday, 16 September 2025, 8:24 AM  
-- **Evidencias sugeridas / Suggested evidence placeholders:**
-
-  - [imagen 1] Arquitectura  
-  - [imagen 2] `aws configure`  
-  - [imagen 3] Key Pair (describe)  
-  - [imagen 4] Reglas del SG  
-  - [imagen 5] `run-instances`  
-  - [imagen 6] Conexión SSH  
-  - [imagen 7] Listado de instancias  
-  - [imagen 8] Limpieza final
-
----
-
 <img width="420" height="106" alt="Screenshot 2025-09-17 103934" src="https://github.com/user-attachments/assets/a3c067e2-1727-44fd-a0a0-f8bd60514104" />
 <img width="939" height="360" alt="Screenshot 2025-09-17 104005" src="https://github.com/user-attachments/assets/224b608c-696a-4338-bee4-068d89601b0e" />
