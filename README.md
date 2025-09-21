@@ -1,8 +1,5 @@
 # AWS-CLI Primer Workshop — README Internacional (ES/EN)
 
-> **Formato de informe / Report-style**  
-> Incluye secciones ejecutables, comandos listos para copiar/pegar y marcadores de imagen como **[imagen 1]**, **[imagen 2]** para que reemplaces por tus capturas en el orden indicado.
-
 ---
 
 ## 🧭 Resumen Ejecutivo / Executive Summary
